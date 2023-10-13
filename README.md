@@ -15,8 +15,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![Screenshot 1](https://github.com/apoorvnema/Result-summary-component-challenge/screenshot(1).png)
-![Screenshot 2](https://github.com/apoorvnema/Result-summary-component-challenge/screenshot(2).png)
+![Screenshot 1](./screenshot(1).png)
+![Screenshot 2](./screenshot(2).png)
 
 ### Links
 
